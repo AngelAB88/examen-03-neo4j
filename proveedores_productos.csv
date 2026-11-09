@@ -1,0 +1,8 @@
+﻿tipo,id,nombre,ciudad,sector,categoria,requiere_refrigeracion
+Proveedor,PR01,Mar y Frío del Pacífico S.A.S.,Buenaventura,Alimentos refrigerados,,
+Proveedor,PR02,Agroinsumos Andinos S.A.S.,Medellín,Insumos agrícolas,,
+Proveedor,PR03,Comercializadora Caribe S.A.S.,Cartagena,Alimentos y mercancía seca,,
+Producto,PD01,Pescado congelado,,,Alimentos,true
+Producto,PD02,Frutas frescas,,,Alimentos,true
+Producto,PD03,Café empacado,,,Agrícola,false
+Producto,PD04,Fertilizante orgánico,,,Insumos agrícolas,false
